@@ -7,7 +7,7 @@
 
 A portable, zero-installation **AppImage** build of the classic **PrBoom+ 2.666** Doom source port for Linux. 
 Yeah yeah, I know, you'll tell me: "PrBoom+ is archived, use DSDA instead!"
-That's not really the point here. It's more of a personal project for 'historic purposes'
+That's not really the point here. It's more of a personal project for 'historical purposes'
 
 Designed to run seamlessly across all modern Linux distributions—including immutable desktop systems like **Fedora Silverblue / Kinoite**, SteamOS, Ubuntu, Debian, Arch, and openSUSE—without needing `root` access or system dependencies.
 
